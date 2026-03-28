@@ -1,0 +1,3 @@
+My name is Nayana Sen, and I am currently pursuing a B.Tech in Computer Science and Engineering at LBS Institute of Technology for Women. I am deeply passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Large Language Models.
+
+I enjoy continuously learning and exploring new concepts in AI while applying my knowledge by building small projects. I am always eager to learn emerging technologies and improve my skills through hands-on experience.
